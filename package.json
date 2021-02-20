@@ -9,7 +9,7 @@
   "keywords": [],
   "license": "MIT",
   "dependencies": {
-    "next": "5.0.1-canary.17"
+    "next": "9.3.2"
   },
   "devDependencies": {
     "serve": "^11.2.0"
